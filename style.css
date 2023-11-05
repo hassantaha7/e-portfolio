@@ -27,6 +27,7 @@ header{
     font-size: 1.8em;
 }
 
+
 .navigation a{
     color: #3a6cf4;
     text-decoration: none;
@@ -166,8 +167,6 @@ section{
 
 .projects{
     background-color:  #142d4c;
-
-
 }
 
 .projects .content{
@@ -177,8 +176,8 @@ section{
 .project-card{
     background-color: #fff;
     border: 2px solid #fff;
-    min-height: 14em;
-    width: 23em;
+    min-height: 18em;
+    width: 18em;
     overflow: hidden;
     border-radius: 10px;
     margin: 20px;
@@ -194,6 +193,7 @@ section{
 }
 .project-image img{
     width: 100%;
+    
 }
 .project-info{
     padding: 1em;
