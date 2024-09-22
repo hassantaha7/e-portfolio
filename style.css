@@ -135,6 +135,7 @@ section{
 
 }
 
+
 .card{
     background-color: #fff;
     width: 21.5em;
@@ -163,6 +164,11 @@ section{
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
+}
+
+
+.cards{
+background-color: #142d4c;
 }
 
 .projects{
